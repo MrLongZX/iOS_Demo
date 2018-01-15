@@ -81,6 +81,51 @@ void TestMetaClass(id self, SEL _cdm) {
         NSLog(@"instance variable %s", ivar_getName(string));
     }
     
+    //属性操作
+    objc_property_t *propertier = class_copyPropertyList(cls, &outCount);
+    for (int i = 0; i < outCount; i++) {
+        objc_property_t property = propertier[i];
+        NSLog(@"属性 property's name:%s",property_getName(property));
+    }
+    free(propertier);
+    
+    objc_property_t array = class_getProperty(cls, "array");
+    if (array != NULL) {
+        NSLog(@"property %s",property_getName(array));
+    }
+    
+    //方法操作
+    Method *methods = class_copyMethodList(cls, &outCount);
+    for (int i = 0; i < outCount; i++) {
+        Method method = methods[i];
+        NSLog(@"方法 method's signature:%s",method_getName(method));
+    }
+    free(methods);
+    
+    Method method1 = class_getInstanceMethod(cls, @selector(method1));
+    if (method1 != NULL) {
+        NSLog(@"method %s",method_getName(method1));
+    }
+    
+    Method classMethod = class_getClassMethod(cls, @selector(classMethod1));
+    if (classMethod != NULL) {
+        NSLog(@"class method %s",method_getName(classMethod));
+    }
+    
+    NSLog(@"MyClass is%@ responsd to selector: method3WithArg1:arg2:", class_respondsToSelector(cls, @selector(method3WithArg1:arg2:)) ? @"" : @" not");
+    
+    IMP imp = class_getMethodImplementation(cls, @selector(method1));
+    imp();
+    
+    //协议
+    Protocol *__unsafe_unretained *protocols = class_copyProtocolList(cls, &outCount);
+    Protocol *protocol;
+    for (int i = 0; i < outCount; i++) {
+        protocol = protocols[i];
+        NSLog(@"protocol name :%s",protocol_getName(protocol));
+    }
+    
+    NSLog(@"MyClass is%@ responsed to protocol %s", class_conformsToProtocol(cls, protocol) ? @"" : @" not", protocol_getName(protocol));
 }
 
 - (void)didReceiveMemoryWarning {
@@ -89,3 +134,21 @@ void TestMetaClass(id self, SEL _cdm) {
 
 
 @end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
