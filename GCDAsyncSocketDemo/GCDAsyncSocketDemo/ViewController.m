@@ -9,6 +9,11 @@
 #import "ViewController.h"
 #import "YLGCDAsyncSocket.h"
 
+/*
+ 学习链接：
+ https://www.jianshu.com/p/321bc95d077f
+ */
+
 #define kScreenH [UIScreen mainScreen].bounds.size.height
 #define kScreenW [UIScreen mainScreen].bounds.size.width
 
