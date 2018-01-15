@@ -82,7 +82,7 @@
 //根据anntation生成对应的View
 - (BMKAnnotationView *)mapView:(BMKMapView *)mapView viewForAnnotation:(id <BMKAnnotation>)annotation{
     //使用自定义大头针
-    NSString *identifier = @"renameMark";
+    static NSString *identifier = @"renameMark";
     YLIconTitleAnnotaView *annotationView = (YLIconTitleAnnotaView *)[mapView dequeueReusableAnnotationViewWithIdentifier:identifier];
     if (!annotationView) {
         annotationView = [[YLIconTitleAnnotaView alloc] initWithAnnotation:annotation reuseIdentifier:identifier];
