@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4D47A87F200660690014CE1F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D47A87E200660690014CE1F /* AppDelegate.m */; };
-		4D47A882200660690014CE1F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D47A881200660690014CE1F /* ViewController.m */; };
+		4D47A882200660690014CE1F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D47A881200660690014CE1F /* ViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		4D47A885200660690014CE1F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D47A883200660690014CE1F /* Main.storyboard */; };
 		4D47A887200660690014CE1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D47A886200660690014CE1F /* Assets.xcassets */; };
 		4D47A88A200660690014CE1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D47A888200660690014CE1F /* LaunchScreen.storyboard */; };
