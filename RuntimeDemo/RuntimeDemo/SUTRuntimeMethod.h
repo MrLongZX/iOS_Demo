@@ -10,4 +10,6 @@
 
 @interface SUTRuntimeMethod : NSObject
 
+- (void)test;
+
 @end

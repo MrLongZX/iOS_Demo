@@ -9,6 +9,8 @@
 #import "ViewController.h"
 #import <objc/runtime.h>
 #import "MyClass.h"
+#import "SUTRuntimeMethod.h"
+#import "RuntimeCategoryClass+Category.h"
 
 @interface ViewController ()
 
@@ -19,15 +21,23 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self ex_registerClassPair];
+//    [self ex_registerClassPair];
+//
+//    [self myClassRuntime];
+//
+//    [self runtimeCreateClass];
+//
+//    [self runtimeCreateObject];
+//
+//    [self getClassDefine];
     
-    [self myClassRuntime];
+//    [self getMethodAddress];
     
-    [self runtimeCreateClass];
+//    [self runtimeAnalysis];
     
-    [self runtimeCreateObject];
+//    [self runtimeReserveReceive];
     
-    [self getClassDefine];
+    [self runtimeCategory];
 }
 
 //创建类、对象、添加方法
@@ -198,26 +208,36 @@ void imp_submethod1(id self, SEL _cdm) {
     }
 }
 
+//获取方法地址，避开动态绑定，直接执行方法
+- (void)getMethodAddress {
+    void (*setter)(id, SEL);
+    MyClass *class = [[MyClass alloc] init];
+    setter = (void (*)(id,SEL))[class methodForSelector:@selector(method1)];
+    for (int i = 0; i < 10; i++) {
+        setter(class,@selector(method1));
+    }
+}
+
+//消息转发：动态解析、
+- (void)runtimeAnalysis {
+    SUTRuntimeMethod *sut = [[SUTRuntimeMethod alloc] init];
+    [sut performSelector:@selector(method3)];
+}
+
+//消息转发：备用接受者、完整消息转发
+- (void)runtimeReserveReceive {
+    SUTRuntimeMethod *sut = [[SUTRuntimeMethod alloc] init];
+    [sut test];
+}
+
+//分类
+- (void)runtimeCategory {
+    RuntimeCategoryClass *obj = [[RuntimeCategoryClass alloc] init];
+    [obj method2];
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
 }
 
 @end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

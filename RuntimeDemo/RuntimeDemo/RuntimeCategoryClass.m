@@ -10,4 +10,7 @@
 
 @implementation RuntimeCategoryClass
 
+- (void)method1 {
+}
+
 @end

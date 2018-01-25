@@ -10,4 +10,6 @@
 
 @interface RuntimeCategoryClass (Category)
 
+- (void)method2;
+
 @end

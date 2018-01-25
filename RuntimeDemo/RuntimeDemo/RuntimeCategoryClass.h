@@ -10,4 +10,6 @@
 
 @interface RuntimeCategoryClass : NSObject
 
+- (void)method1;
+
 @end
