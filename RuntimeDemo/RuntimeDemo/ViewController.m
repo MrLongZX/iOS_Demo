@@ -11,6 +11,7 @@
 #import "MyClass.h"
 #import "SUTRuntimeMethod.h"
 #import "RuntimeCategoryClass+Category.h"
+#import "MyRuntimeBlock.h"
 
 @interface ViewController ()
 
@@ -21,23 +22,27 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-//    [self ex_registerClassPair];
-//
-//    [self myClassRuntime];
-//
-//    [self runtimeCreateClass];
-//
-//    [self runtimeCreateObject];
-//
-//    [self getClassDefine];
+    //    [self ex_registerClassPair];
+    //
+    //    [self myClassRuntime];
+    //
+    //    [self runtimeCreateClass];
+    //
+    //    [self runtimeCreateObject];
+    //
+    //    [self getClassDefine];
     
-//    [self getMethodAddress];
+    //    [self getMethodAddress];
     
-//    [self runtimeAnalysis];
+    //    [self runtimeAnalysis];
     
-//    [self runtimeReserveReceive];
+    //    [self runtimeReserveReceive];
     
-    [self runtimeCategory];
+    //    [self runtimeCategory];
+    
+//    [self libraryAction];
+    
+    [self runtimeBlock];
 }
 
 //创建类、对象、添加方法
@@ -234,6 +239,25 @@ void imp_submethod1(id self, SEL _cdm) {
 - (void)runtimeCategory {
     RuntimeCategoryClass *obj = [[RuntimeCategoryClass alloc] init];
     [obj method2];
+}
+
+//库操作
+- (void)libraryAction {
+    NSLog(@"获取指定类所在动态库");
+    NSLog(@"UIView framework:%s",class_getImageName(NSClassFromString(@"UIView")));
+    
+    NSLog(@"获取指定库或框架中所有类的类名");
+    int outCount;
+    const char ** classes = objc_copyClassNamesForImage(class_getImageName(NSClassFromString(@"UIView")), &outCount);
+    for (int i = 0 ; i < outCount; i++) {
+        NSLog(@"class name:%s",classes[i]);
+    }
+}
+
+//块操作
+- (void)runtimeBlock {
+    MyRuntimeBlock *block = [[MyRuntimeBlock alloc] init];
+    [block runtimeBlock];
 }
 
 - (void)didReceiveMemoryWarning {

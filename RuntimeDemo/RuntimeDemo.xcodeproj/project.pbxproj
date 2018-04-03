@@ -20,6 +20,7 @@
 		4DB332732018D7CD0011CC91 /* UIViewController+Tracking.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB332722018D7CD0011CC91 /* UIViewController+Tracking.m */; };
 		4DB33276201A1D2D0011CC91 /* RuntimeCategoryClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB33275201A1D2D0011CC91 /* RuntimeCategoryClass.m */; };
 		4DB33279201A1D850011CC91 /* RuntimeCategoryClass+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB33278201A1D850011CC91 /* RuntimeCategoryClass+Category.m */; };
+		4DB3327D201C3FFD0011CC91 /* MyRuntimeBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB3327C201C3FFD0011CC91 /* MyRuntimeBlock.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,8 @@
 		4DB33275201A1D2D0011CC91 /* RuntimeCategoryClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RuntimeCategoryClass.m; sourceTree = "<group>"; };
 		4DB33277201A1D850011CC91 /* RuntimeCategoryClass+Category.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RuntimeCategoryClass+Category.h"; sourceTree = "<group>"; };
 		4DB33278201A1D850011CC91 /* RuntimeCategoryClass+Category.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "RuntimeCategoryClass+Category.m"; sourceTree = "<group>"; };
+		4DB3327B201C3FFD0011CC91 /* MyRuntimeBlock.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyRuntimeBlock.h; sourceTree = "<group>"; };
+		4DB3327C201C3FFD0011CC91 /* MyRuntimeBlock.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyRuntimeBlock.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +133,8 @@
 				4DB33275201A1D2D0011CC91 /* RuntimeCategoryClass.m */,
 				4DB33277201A1D850011CC91 /* RuntimeCategoryClass+Category.h */,
 				4DB33278201A1D850011CC91 /* RuntimeCategoryClass+Category.m */,
+				4DB3327B201C3FFD0011CC91 /* MyRuntimeBlock.h */,
+				4DB3327C201C3FFD0011CC91 /* MyRuntimeBlock.m */,
 				4D47A883200660690014CE1F /* Main.storyboard */,
 				4D47A886200660690014CE1F /* Assets.xcassets */,
 				4D47A888200660690014CE1F /* LaunchScreen.storyboard */,
@@ -296,6 +301,7 @@
 				4DB33279201A1D850011CC91 /* RuntimeCategoryClass+Category.m in Sources */,
 				4D47A88D200660690014CE1F /* main.m in Sources */,
 				4DB33276201A1D2D0011CC91 /* RuntimeCategoryClass.m in Sources */,
+				4DB3327D201C3FFD0011CC91 /* MyRuntimeBlock.m in Sources */,
 				4D47A87F200660690014CE1F /* AppDelegate.m in Sources */,
 				4DB332732018D7CD0011CC91 /* UIViewController+Tracking.m in Sources */,
 			);

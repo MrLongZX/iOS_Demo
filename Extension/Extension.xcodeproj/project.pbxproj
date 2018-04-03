@@ -19,6 +19,7 @@
 		4D3A63D41FC96F4500864A69 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3A63D21FC96F4500864A69 /* UIView+Extension.m */; };
 		4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58BE1FEA925500E3D872 /* YLButton.m */; };
 		4D6A58C31FEA925600E3D872 /* YLTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58C01FEA925600E3D872 /* YLTextField.m */; };
+		4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		4D6A58BF1FEA925600E3D872 /* YLTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLTextField.h; sourceTree = "<group>"; };
 		4D6A58C01FEA925600E3D872 /* YLTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLTextField.m; sourceTree = "<group>"; };
 		4D6A58C11FEA925600E3D872 /* YLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLButton.h; sourceTree = "<group>"; };
+		4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+Size.h"; sourceTree = "<group>"; };
+		4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Size.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +128,8 @@
 				4D6A58BE1FEA925500E3D872 /* YLButton.m */,
 				4D6A58BF1FEA925600E3D872 /* YLTextField.h */,
 				4D6A58C01FEA925600E3D872 /* YLTextField.m */,
+				4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */,
+				4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */,
 				4D3A63A51FC96F3500864A69 /* Main.storyboard */,
 				4D3A63A81FC96F3500864A69 /* Assets.xcassets */,
 				4D3A63AA1FC96F3500864A69 /* LaunchScreen.storyboard */,
@@ -298,6 +303,7 @@
 				4D3A63A11FC96F3500864A69 /* AppDelegate.m in Sources */,
 				4D6A58C31FEA925600E3D872 /* YLTextField.m in Sources */,
 				4D3A639E1FC96F3500864A69 /* main.m in Sources */,
+				4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */,
 				4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */,
 				4D3A63D31FC96F4500864A69 /* UIImage+Extension.m in Sources */,
 			);
