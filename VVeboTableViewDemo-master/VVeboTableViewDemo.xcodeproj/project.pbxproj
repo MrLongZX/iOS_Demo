@@ -11,6 +11,12 @@
 		4D1104D32072206C00906888 /* YLCoreTextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1104D22072206C00906888 /* YLCoreTextViewController.m */; };
 		4D1104DB2073830A00906888 /* YLCoreTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1104D82073830A00906888 /* YLCoreTextView.m */; };
 		4D1104DC2073830A00906888 /* StudyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D1104D92073830A00906888 /* StudyTableViewCell.m */; };
+		4D46C2322079ACA30036042C /* YLCoreTextTapView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D46C2312079ACA30036042C /* YLCoreTextTapView.m */; };
+		4D81FEE52077693D00A6FC91 /* YLFixLineLeadView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D81FEE42077693D00A6FC91 /* YLFixLineLeadView.m */; };
+		4D81FEE82078C99800A6FC91 /* YLFixLineHeightView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D81FEE72078C99800A6FC91 /* YLFixLineHeightView.m */; };
+		4DD313D8207B6E3400A87552 /* YLCoreTextImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD313D7207B6E3400A87552 /* YLCoreTextImageView.m */; };
+		4DD313DA207C9B8A00A87552 /* yun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DD313D9207C9B8A00A87552 /* yun.jpg */; };
+		4DD313DE207C9F0300A87552 /* 123.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DD313DD207C9F0300A87552 /* 123.jpg */; };
 		C497C6801B12AE50005BBE06 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C497C67F1B12AE50005BBE06 /* main.m */; };
 		C497C6831B12AE50005BBE06 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C497C6821B12AE50005BBE06 /* AppDelegate.m */; };
 		C497C6861B12AE50005BBE06 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C497C6851B12AE50005BBE06 /* ViewController.m */; };
@@ -65,6 +71,16 @@
 		4D1104D82073830A00906888 /* YLCoreTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YLCoreTextView.m; path = view/YLCoreTextView.m; sourceTree = "<group>"; };
 		4D1104D92073830A00906888 /* StudyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StudyTableViewCell.m; path = view/StudyTableViewCell.m; sourceTree = "<group>"; };
 		4D1104DA2073830A00906888 /* YLCoreTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YLCoreTextView.h; path = view/YLCoreTextView.h; sourceTree = "<group>"; };
+		4D46C2302079ACA30036042C /* YLCoreTextTapView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YLCoreTextTapView.h; sourceTree = "<group>"; };
+		4D46C2312079ACA30036042C /* YLCoreTextTapView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YLCoreTextTapView.m; sourceTree = "<group>"; };
+		4D81FEE32077693D00A6FC91 /* YLFixLineLeadView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YLFixLineLeadView.h; sourceTree = "<group>"; };
+		4D81FEE42077693D00A6FC91 /* YLFixLineLeadView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YLFixLineLeadView.m; sourceTree = "<group>"; };
+		4D81FEE62078C99800A6FC91 /* YLFixLineHeightView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YLFixLineHeightView.h; sourceTree = "<group>"; };
+		4D81FEE72078C99800A6FC91 /* YLFixLineHeightView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YLFixLineHeightView.m; sourceTree = "<group>"; };
+		4DD313D6207B6E3400A87552 /* YLCoreTextImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YLCoreTextImageView.h; sourceTree = "<group>"; };
+		4DD313D7207B6E3400A87552 /* YLCoreTextImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YLCoreTextImageView.m; sourceTree = "<group>"; };
+		4DD313D9207C9B8A00A87552 /* yun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yun.jpg; sourceTree = "<group>"; };
+		4DD313DD207C9F0300A87552 /* 123.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 123.jpg; sourceTree = "<group>"; };
 		C497C67A1B12AE50005BBE06 /* VVeboTableViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VVeboTableViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C497C67E1B12AE50005BBE06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C497C67F1B12AE50005BBE06 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -194,6 +210,8 @@
 				C497C6EA1B12C461005BBE06 /* data.plist */,
 				C497C6AC1B12AF8B005BBE06 /* corner_circle@2x.png */,
 				C497C6EF1B12D3B6005BBE06 /* t_comments@2x.png */,
+				4DD313D9207C9B8A00A87552 /* yun.jpg */,
+				4DD313DD207C9F0300A87552 /* 123.jpg */,
 				C497C6F01B12D3B6005BBE06 /* t_repost@2x.png */,
 				C497C67E1B12AE50005BBE06 /* Info.plist */,
 				C497C67F1B12AE50005BBE06 /* main.m */,
@@ -229,6 +247,14 @@
 				4D1104D92073830A00906888 /* StudyTableViewCell.m */,
 				4D1104DA2073830A00906888 /* YLCoreTextView.h */,
 				4D1104D82073830A00906888 /* YLCoreTextView.m */,
+				4D81FEE32077693D00A6FC91 /* YLFixLineLeadView.h */,
+				4D81FEE42077693D00A6FC91 /* YLFixLineLeadView.m */,
+				4D81FEE62078C99800A6FC91 /* YLFixLineHeightView.h */,
+				4D81FEE72078C99800A6FC91 /* YLFixLineHeightView.m */,
+				4D46C2302079ACA30036042C /* YLCoreTextTapView.h */,
+				4D46C2312079ACA30036042C /* YLCoreTextTapView.m */,
+				4DD313D6207B6E3400A87552 /* YLCoreTextImageView.h */,
+				4DD313D7207B6E3400A87552 /* YLCoreTextImageView.m */,
 			);
 			name = view;
 			sourceTree = "<group>";
@@ -370,9 +396,11 @@
 			files = (
 				C497C6F21B12D3B6005BBE06 /* t_repost@2x.png in Resources */,
 				C497C6891B12AE50005BBE06 /* Main.storyboard in Resources */,
+				4DD313DA207C9B8A00A87552 /* yun.jpg in Resources */,
 				C497C6F11B12D3B6005BBE06 /* t_comments@2x.png in Resources */,
 				C497C68E1B12AE50005BBE06 /* LaunchScreen.xib in Resources */,
 				C497C68B1B12AE50005BBE06 /* Images.xcassets in Resources */,
+				4DD313DE207C9F0300A87552 /* 123.jpg in Resources */,
 				C497C6EB1B12C461005BBE06 /* data.plist in Resources */,
 				C497C6AD1B12AF8B005BBE06 /* corner_circle@2x.png in Resources */,
 			);
@@ -393,6 +421,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C497C6DE1B12C195005BBE06 /* SDWebImageDecoder.m in Sources */,
+				4DD313D8207B6E3400A87552 /* YLCoreTextImageView.m in Sources */,
+				4D46C2322079ACA30036042C /* YLCoreTextTapView.m in Sources */,
 				C497C6E11B12C195005BBE06 /* SDWebImageManager.m in Sources */,
 				C497C6DB1B12C195005BBE06 /* NSData+ImageContentType.m in Sources */,
 				C497C6DD1B12C195005BBE06 /* SDWebImageCompat.m in Sources */,
@@ -401,11 +431,13 @@
 				C497C6B31B12B000005BBE06 /* UIScreen+Additions.m in Sources */,
 				C497C6E71B12C195005BBE06 /* UIImageView+HighlightedWebCache.m in Sources */,
 				C497C6B61B12B8A3005BBE06 /* NSString+Additions.m in Sources */,
+				4D81FEE52077693D00A6FC91 /* YLFixLineLeadView.m in Sources */,
 				C497C6B01B12AFC8005BBE06 /* UIView+Additions.m in Sources */,
 				C497C6E31B12C195005BBE06 /* UIButton+WebCache.m in Sources */,
 				C497C6E21B12C195005BBE06 /* SDWebImagePrefetcher.m in Sources */,
 				C497C6E01B12C195005BBE06 /* SDWebImageDownloaderOperation.m in Sources */,
 				4D1104DB2073830A00906888 /* YLCoreTextView.m in Sources */,
+				4D81FEE82078C99800A6FC91 /* YLFixLineHeightView.m in Sources */,
 				C497C6A81B12AEC1005BBE06 /* VVeboTableViewCell.m in Sources */,
 				4D1104D32072206C00906888 /* YLCoreTextViewController.m in Sources */,
 				C497C6EE1B12CD89005BBE06 /* VVeboTableView.m in Sources */,
