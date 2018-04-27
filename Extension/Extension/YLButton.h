@@ -10,7 +10,8 @@
 
 typedef NS_ENUM(NSInteger,YLButtonType) {
     YLButtonTypeLeft   = 0,// 标题在左 图片在右
-    YLButtonTypeBottom = 1,// 标题在下 图片在上
+    YLButtonTypeRight  = 1,// 标题在右 图片在左
+    YLButtonTypeBottom = 2,// 标题在下 图片在上
 };
 
 @interface YLButton : UIButton

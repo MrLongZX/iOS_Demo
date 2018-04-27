@@ -22,6 +22,19 @@
 		4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58BE1FEA925500E3D872 /* YLButton.m */; };
 		4D6A58C31FEA925600E3D872 /* YLTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58C01FEA925600E3D872 /* YLTextField.m */; };
 		4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */; };
+		4DFEA06E2092C10E0000C83A /* QRCodeRightTop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA05E2092C10E0000C83A /* QRCodeRightTop@2x.png */; };
+		4DFEA06F2092C10E0000C83A /* QRCodeLeftTop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA05F2092C10E0000C83A /* QRCodeLeftTop@2x.png */; };
+		4DFEA0702092C10E0000C83A /* QRCodeRightBottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA0602092C10E0000C83A /* QRCodeRightBottom@2x.png */; };
+		4DFEA0712092C10E0000C83A /* QRCodeRightBottom@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA0612092C10E0000C83A /* QRCodeRightBottom@3x.png */; };
+		4DFEA0722092C10E0000C83A /* YLScanManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DFEA0622092C10E0000C83A /* YLScanManager.m */; };
+		4DFEA0732092C10E0000C83A /* QRCodeLeftTop@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA0632092C10E0000C83A /* QRCodeLeftTop@3x.png */; };
+		4DFEA0742092C10E0000C83A /* YLScaningView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DFEA0642092C10E0000C83A /* YLScaningView.m */; };
+		4DFEA0752092C10E0000C83A /* QRCodeRightTop@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA0652092C10E0000C83A /* QRCodeRightTop@3x.png */; };
+		4DFEA0762092C10E0000C83A /* YLScaningViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DFEA0662092C10E0000C83A /* YLScaningViewController.m */; };
+		4DFEA0772092C10E0000C83A /* QRCodeLeftBottom@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA0692092C10E0000C83A /* QRCodeLeftBottom@3x.png */; };
+		4DFEA0782092C10E0000C83A /* QRCodeScanningLine@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA06A2092C10E0000C83A /* QRCodeScanningLine@3x.png */; };
+		4DFEA0792092C10E0000C83A /* QRCodeScanningLine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA06C2092C10E0000C83A /* QRCodeScanningLine@2x.png */; };
+		4DFEA07A2092C10E0000C83A /* QRCodeLeftBottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA06D2092C10E0000C83A /* QRCodeLeftBottom@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +85,22 @@
 		4D6A58C11FEA925600E3D872 /* YLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLButton.h; sourceTree = "<group>"; };
 		4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+Size.h"; sourceTree = "<group>"; };
 		4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Size.m"; sourceTree = "<group>"; };
+		4DFEA05E2092C10E0000C83A /* QRCodeRightTop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeRightTop@2x.png"; sourceTree = "<group>"; };
+		4DFEA05F2092C10E0000C83A /* QRCodeLeftTop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeLeftTop@2x.png"; sourceTree = "<group>"; };
+		4DFEA0602092C10E0000C83A /* QRCodeRightBottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeRightBottom@2x.png"; sourceTree = "<group>"; };
+		4DFEA0612092C10E0000C83A /* QRCodeRightBottom@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeRightBottom@3x.png"; sourceTree = "<group>"; };
+		4DFEA0622092C10E0000C83A /* YLScanManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLScanManager.m; sourceTree = "<group>"; };
+		4DFEA0632092C10E0000C83A /* QRCodeLeftTop@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeLeftTop@3x.png"; sourceTree = "<group>"; };
+		4DFEA0642092C10E0000C83A /* YLScaningView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLScaningView.m; sourceTree = "<group>"; };
+		4DFEA0652092C10E0000C83A /* QRCodeRightTop@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeRightTop@3x.png"; sourceTree = "<group>"; };
+		4DFEA0662092C10E0000C83A /* YLScaningViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLScaningViewController.m; sourceTree = "<group>"; };
+		4DFEA0672092C10E0000C83A /* YLScaningView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLScaningView.h; sourceTree = "<group>"; };
+		4DFEA0682092C10E0000C83A /* YLScanManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLScanManager.h; sourceTree = "<group>"; };
+		4DFEA0692092C10E0000C83A /* QRCodeLeftBottom@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeLeftBottom@3x.png"; sourceTree = "<group>"; };
+		4DFEA06A2092C10E0000C83A /* QRCodeScanningLine@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeScanningLine@3x.png"; sourceTree = "<group>"; };
+		4DFEA06B2092C10E0000C83A /* YLScaningViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLScaningViewController.h; sourceTree = "<group>"; };
+		4DFEA06C2092C10E0000C83A /* QRCodeScanningLine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeScanningLine@2x.png"; sourceTree = "<group>"; };
+		4DFEA06D2092C10E0000C83A /* QRCodeLeftBottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeLeftBottom@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +169,7 @@
 				4D6A58C01FEA925600E3D872 /* YLTextField.m */,
 				4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */,
 				4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */,
+				4DFEA05D2092C10E0000C83A /* YLScanView */,
 				4D3A63A51FC96F3500864A69 /* Main.storyboard */,
 				4D3A63A81FC96F3500864A69 /* Assets.xcassets */,
 				4D3A63AA1FC96F3500864A69 /* LaunchScreen.storyboard */,
@@ -173,6 +203,29 @@
 				4D3A63C31FC96F3600864A69 /* Info.plist */,
 			);
 			path = ExtensionUITests;
+			sourceTree = "<group>";
+		};
+		4DFEA05D2092C10E0000C83A /* YLScanView */ = {
+			isa = PBXGroup;
+			children = (
+				4DFEA05E2092C10E0000C83A /* QRCodeRightTop@2x.png */,
+				4DFEA05F2092C10E0000C83A /* QRCodeLeftTop@2x.png */,
+				4DFEA0602092C10E0000C83A /* QRCodeRightBottom@2x.png */,
+				4DFEA0612092C10E0000C83A /* QRCodeRightBottom@3x.png */,
+				4DFEA0622092C10E0000C83A /* YLScanManager.m */,
+				4DFEA0632092C10E0000C83A /* QRCodeLeftTop@3x.png */,
+				4DFEA0642092C10E0000C83A /* YLScaningView.m */,
+				4DFEA0652092C10E0000C83A /* QRCodeRightTop@3x.png */,
+				4DFEA0662092C10E0000C83A /* YLScaningViewController.m */,
+				4DFEA0672092C10E0000C83A /* YLScaningView.h */,
+				4DFEA0682092C10E0000C83A /* YLScanManager.h */,
+				4DFEA0692092C10E0000C83A /* QRCodeLeftBottom@3x.png */,
+				4DFEA06A2092C10E0000C83A /* QRCodeScanningLine@3x.png */,
+				4DFEA06B2092C10E0000C83A /* YLScaningViewController.h */,
+				4DFEA06C2092C10E0000C83A /* QRCodeScanningLine@2x.png */,
+				4DFEA06D2092C10E0000C83A /* QRCodeLeftBottom@2x.png */,
+			);
+			path = YLScanView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -282,8 +335,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D3A63AC1FC96F3500864A69 /* LaunchScreen.storyboard in Resources */,
+				4DFEA07A2092C10E0000C83A /* QRCodeLeftBottom@2x.png in Resources */,
+				4DFEA06E2092C10E0000C83A /* QRCodeRightTop@2x.png in Resources */,
+				4DFEA0702092C10E0000C83A /* QRCodeRightBottom@2x.png in Resources */,
+				4DFEA06F2092C10E0000C83A /* QRCodeLeftTop@2x.png in Resources */,
 				4D3A63A91FC96F3500864A69 /* Assets.xcassets in Resources */,
+				4DFEA0792092C10E0000C83A /* QRCodeScanningLine@2x.png in Resources */,
 				4D3A63A71FC96F3500864A69 /* Main.storyboard in Resources */,
+				4DFEA0732092C10E0000C83A /* QRCodeLeftTop@3x.png in Resources */,
+				4DFEA0772092C10E0000C83A /* QRCodeLeftBottom@3x.png in Resources */,
+				4DFEA0782092C10E0000C83A /* QRCodeScanningLine@3x.png in Resources */,
+				4DFEA0712092C10E0000C83A /* QRCodeRightBottom@3x.png in Resources */,
+				4DFEA0752092C10E0000C83A /* QRCodeRightTop@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,11 +374,14 @@
 				4D3A63D41FC96F4500864A69 /* UIView+Extension.m in Sources */,
 				4D3A63A41FC96F3500864A69 /* ViewController.m in Sources */,
 				4D3A63A11FC96F3500864A69 /* AppDelegate.m in Sources */,
+				4DFEA0722092C10E0000C83A /* YLScanManager.m in Sources */,
 				4D6A58C31FEA925600E3D872 /* YLTextField.m in Sources */,
 				4D3A639E1FC96F3500864A69 /* main.m in Sources */,
 				4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */,
 				4D409AD620750F5C005B1A64 /* NSArray+beyond.m in Sources */,
 				4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */,
+				4DFEA0762092C10E0000C83A /* YLScaningViewController.m in Sources */,
+				4DFEA0742092C10E0000C83A /* YLScaningView.m in Sources */,
 				4D409AD720750F5C005B1A64 /* NSMutableArray+beyond.m in Sources */,
 				4D3A63D31FC96F4500864A69 /* UIImage+Extension.m in Sources */,
 			);

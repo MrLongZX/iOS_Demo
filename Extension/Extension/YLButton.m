@@ -14,8 +14,14 @@
 - (CGRect)titleRectForContentRect:(CGRect)contentRect {
     
     if (_ylButtonType == YLButtonTypeLeft) {
+        
         CGFloat w = CGRectGetWidth(contentRect) - self.imageSize.width - 2*_offset;
         return CGRectMake(_offset, 0, w, CGRectGetHeight(contentRect));
+    } else if (_ylButtonType == YLButtonTypeRight) {
+        
+        CGFloat x = _offset + self.imageSize.width + _offset/2;
+        CGFloat w = CGRectGetWidth(contentRect) - self.imageSize.width - 2*_offset;
+        return CGRectMake(x, 0, w, CGRectGetHeight(contentRect));
     }
     
     CGFloat y =  _offset + self.imageSize.height + _offset/2;
@@ -27,9 +33,13 @@
 - (CGRect)imageRectForContentRect:(CGRect)contentRect {
     
     if (_ylButtonType == YLButtonTypeLeft) {
+        
         CGFloat x = CGRectGetWidth(contentRect) - self.imageSize.width - _offset;
         CGFloat y = (CGRectGetHeight(contentRect) -  self.imageSize.height)/2;
         return CGRectMake(x, y, self.imageSize.width, self.imageSize.height);
+    } else if (_ylButtonType == YLButtonTypeRight) {
+        
+        return CGRectMake(_offset, 0, self.imageSize.width, self.imageSize.height);
     }
     
     CGFloat x = (CGRectGetWidth(contentRect) -  self.imageSize.width)/2;
