@@ -19,7 +19,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self arraySequence];
+    //[self arraySequence];
+    
+    [self test5];
 }
 
 - (void)test{

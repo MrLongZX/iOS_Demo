@@ -61,6 +61,8 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor whiteColor];
     
+    [self interceptAutomaticvariables];
+    
     [self defaultFormat];
     
     [self hasReturnValue];
@@ -93,6 +95,41 @@
     [self blcokQuestionThree];
     
     [self blockBasicValueAndObject];
+}
+
+#pragma mark - 截获自定变量
+- (void)interceptAutomaticvariables
+{
+    __block int intVal = 10;
+    __block const char *fmt = "val = %d\n";
+    
+    __block NSInteger integerVal = 10;
+    __block NSString *fmtString = @"integer";
+    
+    void (^blk) (void) = ^{
+
+        intVal = 8;
+        integerVal = 8;
+        
+        fmt = "block changed. intVal = %d\n";
+        fmtString = @"block changed";
+        
+        printf(fmt,intVal);
+        NSLog(@"integerVal = %ld, fmtString = %@",integerVal,fmtString);
+    };
+    
+    intVal = 2;
+    fmt = "these values were changed. intVal = %d\n";
+    
+    integerVal = 2;
+    fmtString = @"these values were changed";
+    
+    blk();
+    
+    printf(fmt,intVal);
+    NSLog(@"integer = %ld",integerVal);//8
+    NSLog(@"fmtString = %@",fmtString);
+    
 }
 
 // 默认格式

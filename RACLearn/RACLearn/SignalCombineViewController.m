@@ -215,7 +215,6 @@
     [concatSignal subscribeNext:^(id x) {
         NSLog(@"x:%@",x);
     }];
-    
 }
 
 //

@@ -10,43 +10,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.18398"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "101"
-            endingLineNumber = "101"
-            landmarkName = "-test3"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184171"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "104"
-            endingLineNumber = "104"
-            landmarkName = "-test3"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184303"
+            timestampString = "551545934.984182"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "103"
             endingLineNumber = "103"
+            landmarkName = "-test3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.992408"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "-test3"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.992689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
             landmarkName = "-test3"
             landmarkType = "7">
             <Locations>
@@ -57,12 +57,12 @@
                   symbolName = "__30-[CommandViewController test3]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.83986"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.7421809"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "103"
-                  endingLineNumber = "103"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
                   offsetFromSymbolStart = "73">
                </Location>
                <Location
@@ -72,12 +72,12 @@
                   symbolName = "__30-[CommandViewController test3]_block_invoke_2"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.843285"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.746199"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "104"
-                  endingLineNumber = "104"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184396"
+            timestampString = "551545934.992928"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
             landmarkName = "-test3"
             landmarkType = "7">
             <Locations>
@@ -105,12 +105,12 @@
                   symbolName = "-[CommandViewController test3]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.8545001"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.7525719"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "114"
-                  endingLineNumber = "114"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
                   offsetFromSymbolStart = "94">
                </Location>
                <Location
@@ -120,12 +120,12 @@
                   symbolName = "__30-[CommandViewController test3]_block_invoke_4"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.8572201"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.754949"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "115"
-                  endingLineNumber = "115"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -138,11 +138,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.18449"
+            timestampString = "551545934.993075"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "115"
-            endingLineNumber = "115"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
             landmarkName = "-test3"
             landmarkType = "7">
          </BreakpointContent>
@@ -154,11 +154,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184593"
+            timestampString = "551545934.993245"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "118"
-            endingLineNumber = "118"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
             landmarkName = "-test3"
             landmarkType = "7">
          </BreakpointContent>
@@ -170,11 +170,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184667"
+            timestampString = "551545934.993389"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
             landmarkName = "-test3"
             landmarkType = "7">
             <Locations>
@@ -185,12 +185,12 @@
                   symbolName = "-[CommandViewController test3]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.882923"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.7761919"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "99"
-                  endingLineNumber = "99"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
                   offsetFromSymbolStart = "19">
                </Location>
                <Location
@@ -200,12 +200,12 @@
                   symbolName = "__30-[CommandViewController test3]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.885251"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.779245"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "101"
-                  endingLineNumber = "101"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -218,11 +218,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184734"
+            timestampString = "551545934.99352"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
             landmarkName = "-test3"
             landmarkType = "7">
             <Locations>
@@ -233,12 +233,12 @@
                   symbolName = "__30-[CommandViewController test3]_block_invoke_2"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.894673"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.7896039"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "106"
-                  endingLineNumber = "106"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
                   offsetFromSymbolStart = "96">
                </Location>
                <Location
@@ -248,12 +248,12 @@
                   symbolName = "__30-[CommandViewController test3]_block_invoke_3"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.898919"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.792802"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "107"
-                  endingLineNumber = "107"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
                   offsetFromSymbolStart = "23">
                </Location>
             </Locations>
@@ -266,11 +266,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1848"
+            timestampString = "551545934.993679"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "152"
-            endingLineNumber = "152"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
             landmarkName = "-test4"
             landmarkType = "7">
             <Locations>
@@ -281,12 +281,12 @@
                   symbolName = "-[CommandViewController test4]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.906788"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.8001699"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "152"
-                  endingLineNumber = "152"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
                   offsetFromSymbolStart = "23">
                </Location>
                <Location
@@ -296,12 +296,12 @@
                   symbolName = "__30-[CommandViewController test4]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.909541"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.8044111"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "155"
-                  endingLineNumber = "155"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -314,23 +314,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184864"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "155"
-            endingLineNumber = "155"
-            landmarkName = "-test4"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184927"
+            timestampString = "551545934.993836"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "157"
@@ -346,11 +330,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.184992"
+            timestampString = "551545934.993916"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "163"
-            endingLineNumber = "163"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "-test4"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.994019"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
             landmarkName = "-test4"
             landmarkType = "7">
             <Locations>
@@ -361,12 +361,12 @@
                   symbolName = "-[CommandViewController test4]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.932508"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.823107"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "163"
-                  endingLineNumber = "163"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
                   offsetFromSymbolStart = "75">
                </Location>
                <Location
@@ -376,12 +376,12 @@
                   symbolName = "__30-[CommandViewController test4]_block_invoke_3"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.936381"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.826133"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "164"
-                  endingLineNumber = "164"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -394,11 +394,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1850621"
+            timestampString = "551545934.994128"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "164"
-            endingLineNumber = "164"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
             landmarkName = "-test4"
             landmarkType = "7">
          </BreakpointContent>
@@ -410,11 +410,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185201"
+            timestampString = "551545934.994252"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "166"
-            endingLineNumber = "166"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
             landmarkName = "-test4"
             landmarkType = "7">
             <Locations>
@@ -425,12 +425,12 @@
                   symbolName = "-[CommandViewController test4]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.952384"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.838316"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "166"
-                  endingLineNumber = "166"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
                   offsetFromSymbolStart = "109">
                </Location>
                <Location
@@ -440,12 +440,12 @@
                   symbolName = "__30-[CommandViewController test4]_block_invoke_4"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.955848"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.840683"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "167"
-                  endingLineNumber = "167"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -458,11 +458,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185304"
+            timestampString = "551545934.9944071"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "167"
-            endingLineNumber = "167"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
             landmarkName = "-test4"
             landmarkType = "7">
          </BreakpointContent>
@@ -474,11 +474,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185396"
+            timestampString = "551545934.994581"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "169"
-            endingLineNumber = "169"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
             landmarkName = "-test4"
             landmarkType = "7">
             <Locations>
@@ -489,12 +489,12 @@
                   symbolName = "-[CommandViewController test4]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.974911"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.856654"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "169"
-                  endingLineNumber = "169"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
                   offsetFromSymbolStart = "155">
                </Location>
                <Location
@@ -504,12 +504,12 @@
                   symbolName = "__30-[CommandViewController test4]_block_invoke_5"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294781.978353"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.860402"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "170"
-                  endingLineNumber = "170"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -522,11 +522,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185485"
+            timestampString = "551545934.994789"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "170"
-            endingLineNumber = "170"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
             landmarkName = "-test4"
             landmarkType = "7">
          </BreakpointContent>
@@ -538,11 +538,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185576"
+            timestampString = "551545934.994938"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "179"
-            endingLineNumber = "179"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
             landmarkName = "-test5"
             landmarkType = "7">
          </BreakpointContent>
@@ -554,11 +554,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185672"
+            timestampString = "551545934.995082"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "177"
-            endingLineNumber = "177"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
             landmarkName = "-test5"
             landmarkType = "7">
             <Locations>
@@ -569,12 +569,12 @@
                   symbolName = "-[CommandViewController test5]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.008301"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.88592"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "177"
-                  endingLineNumber = "177"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
                   offsetFromSymbolStart = "23">
                </Location>
                <Location
@@ -584,12 +584,12 @@
                   symbolName = "__30-[CommandViewController test5]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.011946"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.889684"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
+                  startingLineNumber = "181"
+                  endingLineNumber = "181"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -602,7 +602,71 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185765"
+            timestampString = "551545934.99526"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "-test5"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.995393"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "-test5"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.995554"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "-test5"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.995683"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "-test5"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.995782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "190"
@@ -618,75 +682,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.185856"
+            timestampString = "551545934.995911"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "193"
-            endingLineNumber = "193"
-            landmarkName = "-test5"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1859421"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "196"
-            endingLineNumber = "196"
-            landmarkName = "-test5"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186024"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "199"
-            endingLineNumber = "199"
-            landmarkName = "-test5"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186107"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "188"
-            endingLineNumber = "188"
-            landmarkName = "-test5"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1861891"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "256"
-            endingLineNumber = "256"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
             landmarkName = "-flatMap"
             landmarkType = "7">
          </BreakpointContent>
@@ -698,11 +698,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186271"
+            timestampString = "551545934.996052"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "262"
-            endingLineNumber = "262"
+            startingLineNumber = "264"
+            endingLineNumber = "264"
             landmarkName = "-flatMap"
             landmarkType = "7">
          </BreakpointContent>
@@ -714,11 +714,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186354"
+            timestampString = "551545934.996194"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "263"
-            endingLineNumber = "263"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
             landmarkName = "-flatMap"
             landmarkType = "7">
          </BreakpointContent>
@@ -730,11 +730,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.18645"
+            timestampString = "551545934.996352"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "270"
-            endingLineNumber = "270"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
             landmarkName = "-skip"
             landmarkType = "7">
             <Locations>
@@ -745,12 +745,12 @@
                   symbolName = "-[CommandViewController skip]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.07467"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.938217"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "270"
-                  endingLineNumber = "270"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
                   offsetFromSymbolStart = "68">
                </Location>
                <Location
@@ -760,12 +760,12 @@
                   symbolName = "__29-[CommandViewController skip]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.0771869"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.940472"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "271"
-                  endingLineNumber = "271"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -778,23 +778,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186535"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "271"
-            endingLineNumber = "271"
-            landmarkName = "-skip"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.18662"
+            timestampString = "551545934.997004"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "273"
@@ -810,23 +794,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186704"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "274"
-            endingLineNumber = "274"
-            landmarkName = "-skip"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186787"
+            timestampString = "551545934.997479"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "275"
@@ -842,11 +810,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.186868"
+            timestampString = "551545934.997732"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "281"
-            endingLineNumber = "281"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
+            landmarkName = "-skip"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.998015"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
+            landmarkName = "-skip"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.998253"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
             landmarkName = "-distinctUntilChanged"
             landmarkType = "7">
             <Locations>
@@ -857,12 +857,12 @@
                   symbolName = "-[CommandViewController distinctUntilChanged]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.111299"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.97299"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "281"
-                  endingLineNumber = "281"
+                  startingLineNumber = "283"
+                  endingLineNumber = "283"
                   offsetFromSymbolStart = "58">
                </Location>
                <Location
@@ -872,12 +872,12 @@
                   symbolName = "__45-[CommandViewController distinctUntilChanged]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.115159"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545935.975245"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "282"
-                  endingLineNumber = "282"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -890,23 +890,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1869479"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "282"
-            endingLineNumber = "282"
-            landmarkName = "-distinctUntilChanged"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187029"
+            timestampString = "551545934.99871"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "284"
@@ -922,23 +906,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187111"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "285"
-            endingLineNumber = "285"
-            landmarkName = "-distinctUntilChanged"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187191"
+            timestampString = "551545934.998919"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "286"
@@ -954,11 +922,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187271"
+            timestampString = "551545934.999146"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "293"
-            endingLineNumber = "293"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "-distinctUntilChanged"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.999379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "-distinctUntilChanged"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545934.999585"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "295"
+            endingLineNumber = "295"
             landmarkName = "-take"
             landmarkType = "7">
          </BreakpointContent>
@@ -970,39 +970,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187353"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "296"
-            endingLineNumber = "296"
-            landmarkName = "-take"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187434"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "297"
-            endingLineNumber = "297"
-            landmarkName = "-take"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187515"
+            timestampString = "551545934.9997489"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "298"
@@ -1018,12 +986,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1875941"
+            timestampString = "551545934.999918"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "307"
-            endingLineNumber = "307"
-            landmarkName = "-takeLast"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "-take"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1034,7 +1002,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187675"
+            timestampString = "551545935.000105"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "300"
+            endingLineNumber = "300"
+            landmarkName = "-take"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.000283"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "309"
@@ -1050,23 +1034,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187754"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "310"
-            endingLineNumber = "310"
-            landmarkName = "-takeLast"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187831"
+            timestampString = "551545935.000493"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "311"
@@ -1082,7 +1050,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.18791"
+            timestampString = "551545935.000725"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "312"
@@ -1098,12 +1066,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.187991"
+            timestampString = "551545935.000919"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "320"
-            endingLineNumber = "320"
-            landmarkName = "-takeUntil"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
+            landmarkName = "-takeLast"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1114,7 +1082,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188072"
+            timestampString = "551545935.001175"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "314"
+            endingLineNumber = "314"
+            landmarkName = "-takeLast"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.00139"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "322"
@@ -1130,11 +1114,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188154"
+            timestampString = "551545935.0017149"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "323"
-            endingLineNumber = "323"
+            startingLineNumber = "324"
+            endingLineNumber = "324"
             landmarkName = "-takeUntil"
             landmarkType = "7">
          </BreakpointContent>
@@ -1146,23 +1130,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188247"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "326"
-            endingLineNumber = "326"
-            landmarkName = "-takeUntil"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188345"
+            timestampString = "551545935.002022"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "325"
@@ -1178,12 +1146,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188442"
+            timestampString = "551545935.00228"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "335"
-            endingLineNumber = "335"
-            landmarkName = "-ignore"
+            startingLineNumber = "328"
+            endingLineNumber = "328"
+            landmarkName = "-takeUntil"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -1194,7 +1162,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.18857"
+            timestampString = "551545935.002533"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "327"
+            endingLineNumber = "327"
+            landmarkName = "-takeUntil"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.002741"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "337"
@@ -1210,11 +1194,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188682"
+            timestampString = "551545935.0031821"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "338"
-            endingLineNumber = "338"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
             landmarkName = "-ignore"
             landmarkType = "7">
          </BreakpointContent>
@@ -1226,11 +1210,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188784"
+            timestampString = "551545935.003477"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "81"
-            endingLineNumber = "81"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
+            landmarkName = "-ignore"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.0037301"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
             landmarkName = "-test2"
             landmarkType = "7">
             <Locations>
@@ -1241,12 +1241,12 @@
                   symbolName = "-[CommandViewController test2]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.2780761"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.1075881"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "81"
-                  endingLineNumber = "81"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
                   offsetFromSymbolStart = "16">
                </Location>
                <Location
@@ -1256,12 +1256,12 @@
                   symbolName = "__30-[CommandViewController test2]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.281235"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.110521"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "82"
-                  endingLineNumber = "82"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -1274,71 +1274,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188888"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "82"
-            endingLineNumber = "82"
-            landmarkName = "-test2"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.188969"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "83"
-            endingLineNumber = "83"
-            landmarkName = "-test2"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__30-[CommandViewController test2]_block_invoke"
-                  moduleName = "RACLearn"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.298913"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "83"
-                  endingLineNumber = "83"
-                  offsetFromSymbolStart = "73">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__30-[CommandViewController test2]_block_invoke_2"
-                  moduleName = "RACLearn"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.302942"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "84"
-                  endingLineNumber = "84"
-                  offsetFromSymbolStart = "51">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1891069"
+            timestampString = "551545935.003913"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "84"
@@ -1354,11 +1290,75 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189196"
+            timestampString = "551545935.004061"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "88"
-            endingLineNumber = "88"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "-test2"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[CommandViewController test2]_block_invoke"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.124571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[CommandViewController test2]_block_invoke_2"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.127229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.004202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "-test2"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.004333"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
             landmarkName = "-test2"
             landmarkType = "7">
             <Locations>
@@ -1369,12 +1369,12 @@
                   symbolName = "-[CommandViewController test2]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.331717"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.140761"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "88"
-                  endingLineNumber = "88"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
                   offsetFromSymbolStart = "91">
                </Location>
                <Location
@@ -1384,12 +1384,12 @@
                   symbolName = "__30-[CommandViewController test2]_block_invoke_3"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.334421"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.143068"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "89"
-                  endingLineNumber = "89"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -1402,11 +1402,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189271"
+            timestampString = "551545935.004573"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "89"
-            endingLineNumber = "89"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
             landmarkName = "-test2"
             landmarkType = "7">
             <Locations>
@@ -1417,12 +1417,12 @@
                   symbolName = "__30-[CommandViewController test2]_block_invoke_3"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.3560801"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.150369"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "89"
-                  endingLineNumber = "89"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
                   offsetFromSymbolStart = "51">
                </Location>
                <Location
@@ -1432,12 +1432,12 @@
                   symbolName = "__30-[CommandViewController test2]_block_invoke_4"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.359267"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.153789"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "90"
-                  endingLineNumber = "90"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
                   offsetFromSymbolStart = "51">
                </Location>
             </Locations>
@@ -1450,11 +1450,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189338"
+            timestampString = "551545935.0049599"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "90"
-            endingLineNumber = "90"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
             landmarkName = "-test2"
             landmarkType = "7">
          </BreakpointContent>
@@ -1466,11 +1466,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1893981"
+            timestampString = "551545935.0051939"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "93"
-            endingLineNumber = "93"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
             landmarkName = "-test2"
             landmarkType = "7">
          </BreakpointContent>
@@ -1482,11 +1482,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189479"
+            timestampString = "551545935.005435"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "107"
-            endingLineNumber = "107"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
             landmarkName = "-test3"
             landmarkType = "7">
          </BreakpointContent>
@@ -1498,11 +1498,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189546"
+            timestampString = "551545935.0056159"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "124"
-            endingLineNumber = "124"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
             landmarkName = "-testCommandExecuting"
             landmarkType = "7">
          </BreakpointContent>
@@ -1514,7 +1514,135 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189616"
+            timestampString = "551545935.00577"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "-testCommandExecuting"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[CommandViewController testCommandExecuting]_block_invoke"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.185039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "73">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[CommandViewController testCommandExecuting]_block_invoke_2"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.187681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.00589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "-testCommandExecuting"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.005993"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "-testCommandExecuting"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.006114"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "-testCommandExecuting"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.006192"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "-testCommandExecuting"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.0062931"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "-testCommandExecuting"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/CommandViewController.m"
+            timestampString = "551545935.006387"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "125"
@@ -1526,26 +1654,26 @@
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "__45-[CommandViewController testCommandExecuting]_block_invoke"
+                  symbolName = "-[CommandViewController testCommandExecuting]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.414623"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.226293"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "125"
                   endingLineNumber = "125"
-                  offsetFromSymbolStart = "73">
+                  offsetFromSymbolStart = "16">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "__45-[CommandViewController testCommandExecuting]_block_invoke_2"
+                  symbolName = "__45-[CommandViewController testCommandExecuting]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.4193619"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.2299531"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "126"
@@ -1562,93 +1690,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189679"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "127"
-            endingLineNumber = "127"
-            landmarkName = "-testCommandExecuting"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189744"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "129"
-            endingLineNumber = "129"
-            landmarkName = "-testCommandExecuting"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189804"
+            timestampString = "551545935.006556"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "136"
             endingLineNumber = "136"
             landmarkName = "-testCommandExecuting"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189878"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "139"
-            endingLineNumber = "139"
-            landmarkName = "-testCommandExecuting"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.189973"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "147"
-            endingLineNumber = "147"
-            landmarkName = "-testCommandExecuting"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190086"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "123"
-            endingLineNumber = "123"
-            landmarkName = "-testCommandExecuting"
-            landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1657,60 +1705,12 @@
                   symbolName = "-[CommandViewController testCommandExecuting]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.4909379"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.238601"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "123"
-                  endingLineNumber = "123"
-                  offsetFromSymbolStart = "16">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__45-[CommandViewController testCommandExecuting]_block_invoke"
-                  moduleName = "RACLearn"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.494921"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "124"
-                  endingLineNumber = "124"
-                  offsetFromSymbolStart = "48">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190196"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "134"
-            endingLineNumber = "134"
-            landmarkName = "-testCommandExecuting"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[CommandViewController testCommandExecuting]"
-                  moduleName = "RACLearn"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.507659"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "134"
-                  endingLineNumber = "134"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
                   offsetFromSymbolStart = "91">
                </Location>
                <Location
@@ -1720,12 +1720,12 @@
                   symbolName = "__45-[CommandViewController testCommandExecuting]_block_invoke_4"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.5109791"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.24242"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "135"
-                  endingLineNumber = "135"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
                   offsetFromSymbolStart = "44">
                </Location>
             </Locations>
@@ -1738,11 +1738,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190263"
+            timestampString = "551545935.006651"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "144"
-            endingLineNumber = "144"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
             landmarkName = "-testCommandExecuting"
             landmarkType = "7">
          </BreakpointContent>
@@ -1754,11 +1754,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190375"
+            timestampString = "551545935.006789"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "223"
-            endingLineNumber = "223"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
             landmarkName = "-map"
             landmarkType = "7">
          </BreakpointContent>
@@ -1770,11 +1770,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190456"
+            timestampString = "551545935.006893"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "225"
-            endingLineNumber = "225"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
             landmarkName = "-map"
             landmarkType = "7">
             <Locations>
@@ -1785,12 +1785,12 @@
                   symbolName = "-[CommandViewController map]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.547061"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.263916"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "225"
-                  endingLineNumber = "225"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
                   offsetFromSymbolStart = "65">
                </Location>
                <Location
@@ -1800,12 +1800,12 @@
                   symbolName = "__28-[CommandViewController map]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.552353"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.2664109"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "228"
-                  endingLineNumber = "228"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -1818,11 +1818,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190523"
+            timestampString = "551545935.007025"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "228"
-            endingLineNumber = "228"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
             landmarkName = "-map"
             landmarkType = "7">
          </BreakpointContent>
@@ -1834,11 +1834,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1905921"
+            timestampString = "551545935.007131"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "232"
-            endingLineNumber = "232"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
             landmarkName = "-map"
             landmarkType = "7">
          </BreakpointContent>
@@ -1850,11 +1850,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1906559"
+            timestampString = "551545935.007217"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "235"
-            endingLineNumber = "235"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
             landmarkName = "-map"
             landmarkType = "7">
          </BreakpointContent>
@@ -1866,11 +1866,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190722"
+            timestampString = "551545935.007334"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "240"
-            endingLineNumber = "240"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
             landmarkName = "-flatMap1"
             landmarkType = "7">
             <Locations>
@@ -1881,12 +1881,12 @@
                   symbolName = "-[CommandViewController flatMap1]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.598081"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.29115"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "240"
-                  endingLineNumber = "240"
+                  startingLineNumber = "242"
+                  endingLineNumber = "242"
                   offsetFromSymbolStart = "65">
                </Location>
                <Location
@@ -1896,12 +1896,12 @@
                   symbolName = "__33-[CommandViewController flatMap1]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/CommandViewController.m"
-                  timestampString = "547294782.6023639"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/CommandViewController.m"
+                  timestampString = "551545936.29469"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "241"
-                  endingLineNumber = "241"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
                   offsetFromSymbolStart = "48">
                </Location>
             </Locations>
@@ -1914,11 +1914,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1907901"
+            timestampString = "551545935.007457"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "245"
-            endingLineNumber = "245"
+            startingLineNumber = "247"
+            endingLineNumber = "247"
             landmarkName = "-flatMap1"
             landmarkType = "7">
          </BreakpointContent>
@@ -1930,11 +1930,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190855"
+            timestampString = "551545935.007589"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "248"
-            endingLineNumber = "248"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
             landmarkName = "-flatMap1"
             landmarkType = "7">
          </BreakpointContent>
@@ -1946,11 +1946,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1909209"
+            timestampString = "551545935.007702"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "241"
-            endingLineNumber = "241"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
             landmarkName = "-flatMap1"
             landmarkType = "7">
          </BreakpointContent>
@@ -1962,11 +1962,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.190986"
+            timestampString = "551545935.007797"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "258"
-            endingLineNumber = "258"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
             landmarkName = "-flatMap"
             landmarkType = "7">
          </BreakpointContent>
@@ -1978,7 +1978,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.011058"
+            timestampString = "551545935.007975"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "127"
@@ -1994,7 +1994,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.055493"
+            timestampString = "551545935.008163"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "129"
@@ -2010,7 +2010,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.056199"
+            timestampString = "551545935.008231"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "133"
@@ -2026,7 +2026,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.057101"
+            timestampString = "551545935.0083081"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "134"
@@ -2042,11 +2042,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/CommandViewController.m"
-            timestampString = "547292629.1948431"
+            timestampString = "551545935.0084"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "343"
-            endingLineNumber = "343"
+            startingLineNumber = "345"
+            endingLineNumber = "345"
             landmarkName = "-arraySequence"
             landmarkType = "7">
          </BreakpointContent>
@@ -2058,7 +2058,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.058002"
+            timestampString = "551545935.008496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "144"
@@ -2074,7 +2074,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.059642"
+            timestampString = "551545935.008566"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "146"
@@ -2090,7 +2090,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.060438"
+            timestampString = "551545935.008643"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "149"
@@ -2106,7 +2106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.060955"
+            timestampString = "551545935.008732"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "150"
@@ -2122,7 +2122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.061594"
+            timestampString = "551545935.008848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "157"
@@ -2138,7 +2138,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.062833"
+            timestampString = "551545935.00892"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "162"
@@ -2154,7 +2154,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0642819"
+            timestampString = "551545935.008968"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "167"
@@ -2170,7 +2170,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.064984"
+            timestampString = "551545935.009093"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "172"
@@ -2186,7 +2186,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.065694"
+            timestampString = "551545935.00921"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "212"
@@ -2202,7 +2202,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.066577"
+            timestampString = "551545935.009324"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "213"
@@ -2218,7 +2218,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.067377"
+            timestampString = "551545935.009434"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "193"
@@ -2233,8 +2233,8 @@
                   symbolName = "-[SignalCombineViewController concat]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.877336"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.415473"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "193"
@@ -2248,8 +2248,8 @@
                   symbolName = "__37-[SignalCombineViewController concat]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.881353"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.417944"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "194"
@@ -2266,7 +2266,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.067955"
+            timestampString = "551545935.0095479"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "204"
@@ -2282,11 +2282,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.068424"
+            timestampString = "551545935.009638"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "257"
-            endingLineNumber = "257"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
             landmarkName = "-testCollectSignalsAndCombineLatestOrZip"
             landmarkType = "7">
          </BreakpointContent>
@@ -2298,13 +2298,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.068987"
+            timestampString = "551545935.00974"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "266"
-            endingLineNumber = "266"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
             landmarkName = "-testCollectSignalsAndCombineLatestOrZip"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SignalCombineViewController testCollectSignalsAndCombineLatestOrZip]"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.435244"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "265"
+                  endingLineNumber = "265"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__70-[SignalCombineViewController testCollectSignalsAndCombineLatestOrZip]_block_invoke"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.437732"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.183"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.43996"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "265"
+                  endingLineNumber = "265"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2314,13 +2361,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0695961"
+            timestampString = "551545935.0098701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "268"
-            endingLineNumber = "268"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
             landmarkName = "-testCollectSignalsAndCombineLatestOrZip"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__70-[SignalCombineViewController testCollectSignalsAndCombineLatestOrZip]_block_invoke"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.448651"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.182"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.451685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "265"
+                  endingLineNumber = "265"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__70-[SignalCombineViewController testCollectSignalsAndCombineLatestOrZip]_block_invoke.188"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.454911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2330,13 +2424,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.070443"
+            timestampString = "551545935.00999"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "270"
-            endingLineNumber = "270"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
             landmarkName = "-testCollectSignalsAndCombineLatestOrZip"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__70-[SignalCombineViewController testCollectSignalsAndCombineLatestOrZip]_block_invoke.188"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.4635611"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__70-[SignalCombineViewController testCollectSignalsAndCombineLatestOrZip]_block_invoke_2"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.466398"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "270"
+                  endingLineNumber = "270"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2346,23 +2472,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0711941"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "315"
-            endingLineNumber = "315"
-            landmarkName = "-subjectReplayLazily"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0719759"
+            timestampString = "551545935.010056"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "314"
@@ -2377,8 +2487,8 @@
                   symbolName = "-[SignalCombineViewController subjectReplayLazily]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.938411"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.4760309"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "314"
@@ -2392,8 +2502,8 @@
                   symbolName = "__50-[SignalCombineViewController subjectReplayLazily]_block_invoke"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.94157"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.479206"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "315"
@@ -2410,7 +2520,39 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.072957"
+            timestampString = "551545935.0101711"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
+            landmarkName = "-subjectReplayLazily"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/SignalCombineViewController.m"
+            timestampString = "551545935.010286"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "-subjectReplayLazily"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/SignalCombineViewController.m"
+            timestampString = "551545935.010397"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "317"
@@ -2426,7 +2568,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0739011"
+            timestampString = "551545935.010512"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "318"
@@ -2441,8 +2583,8 @@
                   symbolName = "-[SignalCombineViewController subjectReplayLazily]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.960869"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.5101269"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "318"
@@ -2456,8 +2598,8 @@
                   symbolName = "__50-[SignalCombineViewController subjectReplayLazily]_block_invoke_2"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.964021"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.513787"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "319"
@@ -2474,11 +2616,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.074677"
+            timestampString = "551545935.0106061"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "319"
-            endingLineNumber = "319"
+            startingLineNumber = "320"
+            endingLineNumber = "320"
             landmarkName = "-subjectReplayLazily"
             landmarkType = "7">
          </BreakpointContent>
@@ -2490,7 +2632,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.075394"
+            timestampString = "551545935.010711"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "321"
@@ -2506,7 +2648,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.07595"
+            timestampString = "551545935.0107991"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "322"
@@ -2521,8 +2663,8 @@
                   symbolName = "-[SignalCombineViewController subjectReplayLazily]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.9885271"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.534288"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "322"
@@ -2536,8 +2678,8 @@
                   symbolName = "__50-[SignalCombineViewController subjectReplayLazily]_block_invoke_3"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294782.992871"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.536782"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "323"
@@ -2554,11 +2696,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.076396"
+            timestampString = "551545935.010911"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "323"
-            endingLineNumber = "323"
+            startingLineNumber = "324"
+            endingLineNumber = "324"
             landmarkName = "-subjectReplayLazily"
             landmarkType = "7">
          </BreakpointContent>
@@ -2570,11 +2712,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0768369"
+            timestampString = "551545935.011044"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "325"
-            endingLineNumber = "325"
+            startingLineNumber = "312"
+            endingLineNumber = "312"
             landmarkName = "-subjectReplayLazily"
             landmarkType = "7">
          </BreakpointContent>
@@ -2586,23 +2728,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.077244"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "313"
-            endingLineNumber = "313"
-            landmarkName = "-subjectReplayLazily"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.077718"
+            timestampString = "551545935.011117"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "178"
@@ -2617,8 +2743,8 @@
                   symbolName = "-[SignalCombineViewController then]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294783.041986"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.556847"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "178"
@@ -2632,8 +2758,8 @@
                   symbolName = "__35-[SignalCombineViewController then]_block_invoke_5"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294783.0464031"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.5599869"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "179"
@@ -2647,8 +2773,8 @@
                   symbolName = "__destroy_helper_block_"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294783.050451"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.562211"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "178"
@@ -2665,7 +2791,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.078625"
+            timestampString = "551545935.011202"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "179"
@@ -2681,7 +2807,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.079085"
+            timestampString = "551545935.011324"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "170"
@@ -2697,7 +2823,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.079555"
+            timestampString = "551545935.011403"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "185"
@@ -2713,7 +2839,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.07996"
+            timestampString = "551545935.011521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "183"
@@ -2729,7 +2855,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.080377"
+            timestampString = "551545935.011585"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "182"
@@ -2744,8 +2870,8 @@
                   symbolName = "-[SignalCombineViewController then]"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294783.104178"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.598448"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "182"
@@ -2759,8 +2885,8 @@
                   symbolName = "__35-[SignalCombineViewController then]_block_invoke.119"
                   moduleName = "RACLearn"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/suyoulong/Desktop/RAC/RACLearn/RACLearn/SignalCombineViewController.m"
-                  timestampString = "547294783.108236"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.601801"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "183"
@@ -2777,7 +2903,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.080796"
+            timestampString = "551545935.01166"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "195"
@@ -2793,7 +2919,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.081214"
+            timestampString = "551545935.011744"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "216"
@@ -2809,7 +2935,55 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.081709"
+            timestampString = "551545935.011855"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "375"
+            endingLineNumber = "375"
+            landmarkName = "-doNextAndComplete"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SignalCombineViewController doNextAndComplete]"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.621783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "375"
+                  endingLineNumber = "375"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[SignalCombineViewController doNextAndComplete]_block_invoke"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.624148"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "376"
+                  endingLineNumber = "376"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RACLearn/SignalCombineViewController.m"
+            timestampString = "551545935.01194"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "376"
@@ -2825,11 +2999,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.082619"
+            timestampString = "551545935.0120521"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "377"
-            endingLineNumber = "377"
+            startingLineNumber = "382"
+            endingLineNumber = "382"
             landmarkName = "-doNextAndComplete"
             landmarkType = "7">
          </BreakpointContent>
@@ -2841,13 +3015,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.083217"
+            timestampString = "551545935.01214"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "383"
-            endingLineNumber = "383"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
             landmarkName = "-doNextAndComplete"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[SignalCombineViewController doNextAndComplete]_block_invoke_3"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.644715"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "384"
+                  endingLineNumber = "384"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[SignalCombineViewController doNextAndComplete]_block_invoke_4"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.647341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2857,13 +3063,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0837801"
+            timestampString = "551545935.012249"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "385"
-            endingLineNumber = "385"
+            startingLineNumber = "386"
+            endingLineNumber = "386"
             landmarkName = "-doNextAndComplete"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[SignalCombineViewController doNextAndComplete]_block_invoke_4"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.655351"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "386"
+                  endingLineNumber = "386"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[SignalCombineViewController doNextAndComplete]_block_invoke_5"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.658631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "387"
+                  endingLineNumber = "387"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2873,29 +3111,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.0843199"
+            timestampString = "551545935.012329"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "387"
-            endingLineNumber = "387"
-            landmarkName = "-doNextAndComplete"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.085068"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "506"
-            endingLineNumber = "506"
+            startingLineNumber = "505"
+            endingLineNumber = "505"
             landmarkName = "-doReplay"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SignalCombineViewController doReplay]"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.665388"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "505"
+                  endingLineNumber = "505"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[SignalCombineViewController doReplay]_block_invoke"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.668384"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "506"
+                  endingLineNumber = "506"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2905,13 +3159,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.085814"
+            timestampString = "551545935.0124201"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "514"
-            endingLineNumber = "514"
+            startingLineNumber = "513"
+            endingLineNumber = "513"
             landmarkName = "-doReplay"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SignalCombineViewController doReplay]"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.676877"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "513"
+                  endingLineNumber = "513"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[SignalCombineViewController doReplay]_block_invoke_3"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.6795059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "514"
+                  endingLineNumber = "514"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -2921,13 +3207,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "RACLearn/SignalCombineViewController.m"
-            timestampString = "547294781.08679"
+            timestampString = "551545935.012506"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "518"
-            endingLineNumber = "518"
+            startingLineNumber = "517"
+            endingLineNumber = "517"
             landmarkName = "-doReplay"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SignalCombineViewController doReplay]"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.687012"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "517"
+                  endingLineNumber = "517"
+                  offsetFromSymbolStart = "154">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[SignalCombineViewController doReplay]_block_invoke_4"
+                  moduleName = "RACLearn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suyoulong/Desktop/MyGitHub/iOS_Demo/RACLearn/RACLearn/SignalCombineViewController.m"
+                  timestampString = "551545936.689798"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "518"
+                  endingLineNumber = "518"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

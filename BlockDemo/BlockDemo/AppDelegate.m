@@ -9,6 +9,7 @@
 #import "AppDelegate.h"
 #import "ViewController.h"
 #import <FBMemoryProfiler/FBMemoryProfiler.h>
+#import "BlockViewController.h"
 
 @interface AppDelegate ()
 {
@@ -24,7 +25,7 @@
     [memoryProfiler enable];
     _memoryProfiler = memoryProfiler;
     
-    UINavigationController *navigation = [[UINavigationController alloc] initWithRootViewController:[ViewController new]];
+    UINavigationController *navigation = [[UINavigationController alloc] initWithRootViewController:[BlockViewController new]];
     self.window.rootViewController = navigation;
     
     return YES;

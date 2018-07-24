@@ -17,10 +17,17 @@
 		4D3A63C21FC96F3600864A69 /* ExtensionUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3A63C11FC96F3600864A69 /* ExtensionUITests.m */; };
 		4D3A63D31FC96F4500864A69 /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3A63D01FC96F4500864A69 /* UIImage+Extension.m */; };
 		4D3A63D41FC96F4500864A69 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3A63D21FC96F4500864A69 /* UIView+Extension.m */; };
+		4D3B351120A5E73700517455 /* YLArrowSegmentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3B350E20A5E73700517455 /* YLArrowSegmentView.m */; };
+		4D3B351220A5E73700517455 /* YLArrowButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3B351020A5E73700517455 /* YLArrowButtonView.m */; };
+		4D3B351920A5E77D00517455 /* backgroundStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D3B351620A5E77D00517455 /* backgroundStar.png */; };
+		4D3B351A20A5E77D00517455 /* foregroundStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D3B351720A5E77D00517455 /* foregroundStar.png */; };
+		4D3B351B20A5E77D00517455 /* TQStarRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3B351820A5E77D00517455 /* TQStarRatingView.m */; };
+		4D3B351E20A5E78B00517455 /* UITableView+ifiOSEleven.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3B351D20A5E78B00517455 /* UITableView+ifiOSEleven.m */; };
 		4D409AD620750F5C005B1A64 /* NSArray+beyond.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D409AD320750F5B005B1A64 /* NSArray+beyond.m */; };
 		4D409AD720750F5C005B1A64 /* NSMutableArray+beyond.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D409AD420750F5C005B1A64 /* NSMutableArray+beyond.m */; };
 		4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58BE1FEA925500E3D872 /* YLButton.m */; };
 		4D6A58C31FEA925600E3D872 /* YLTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58C01FEA925600E3D872 /* YLTextField.m */; };
+		4DCF557921076C4300E9455A /* UIView+YLCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCF557721076C4300E9455A /* UIView+YLCore.m */; };
 		4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */; };
 		4DFEA06E2092C10E0000C83A /* QRCodeRightTop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA05E2092C10E0000C83A /* QRCodeRightTop@2x.png */; };
 		4DFEA06F2092C10E0000C83A /* QRCodeLeftTop@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DFEA05F2092C10E0000C83A /* QRCodeLeftTop@2x.png */; };
@@ -75,6 +82,16 @@
 		4D3A63D01FC96F4500864A69 /* UIImage+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Extension.m"; sourceTree = "<group>"; };
 		4D3A63D11FC96F4500864A69 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
 		4D3A63D21FC96F4500864A69 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		4D3B350D20A5E73700517455 /* YLArrowButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLArrowButtonView.h; sourceTree = "<group>"; };
+		4D3B350E20A5E73700517455 /* YLArrowSegmentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLArrowSegmentView.m; sourceTree = "<group>"; };
+		4D3B350F20A5E73700517455 /* YLArrowSegmentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLArrowSegmentView.h; sourceTree = "<group>"; };
+		4D3B351020A5E73700517455 /* YLArrowButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLArrowButtonView.m; sourceTree = "<group>"; };
+		4D3B351420A5E77D00517455 /* TQStarRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TQStarRatingView.h; sourceTree = "<group>"; };
+		4D3B351620A5E77D00517455 /* backgroundStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundStar.png; sourceTree = "<group>"; };
+		4D3B351720A5E77D00517455 /* foregroundStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foregroundStar.png; sourceTree = "<group>"; };
+		4D3B351820A5E77D00517455 /* TQStarRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TQStarRatingView.m; sourceTree = "<group>"; };
+		4D3B351C20A5E78B00517455 /* UITableView+ifiOSEleven.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+ifiOSEleven.h"; sourceTree = "<group>"; };
+		4D3B351D20A5E78B00517455 /* UITableView+ifiOSEleven.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+ifiOSEleven.m"; sourceTree = "<group>"; };
 		4D409AD220750F5B005B1A64 /* NSArray+beyond.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+beyond.h"; sourceTree = "<group>"; };
 		4D409AD320750F5B005B1A64 /* NSArray+beyond.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+beyond.m"; sourceTree = "<group>"; };
 		4D409AD420750F5C005B1A64 /* NSMutableArray+beyond.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+beyond.m"; sourceTree = "<group>"; };
@@ -83,6 +100,8 @@
 		4D6A58BF1FEA925600E3D872 /* YLTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLTextField.h; sourceTree = "<group>"; };
 		4D6A58C01FEA925600E3D872 /* YLTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLTextField.m; sourceTree = "<group>"; };
 		4D6A58C11FEA925600E3D872 /* YLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLButton.h; sourceTree = "<group>"; };
+		4DCF557721076C4300E9455A /* UIView+YLCore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+YLCore.m"; sourceTree = "<group>"; };
+		4DCF557821076C4300E9455A /* UIView+YLCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+YLCore.h"; sourceTree = "<group>"; };
 		4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+Size.h"; sourceTree = "<group>"; };
 		4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Size.m"; sourceTree = "<group>"; };
 		4DFEA05E2092C10E0000C83A /* QRCodeRightTop@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QRCodeRightTop@2x.png"; sourceTree = "<group>"; };
@@ -157,6 +176,8 @@
 				4D3A63A31FC96F3500864A69 /* ViewController.m */,
 				4D3A63CF1FC96F4500864A69 /* UIImage+Extension.h */,
 				4D3A63D01FC96F4500864A69 /* UIImage+Extension.m */,
+				4DCF557821076C4300E9455A /* UIView+YLCore.h */,
+				4DCF557721076C4300E9455A /* UIView+YLCore.m */,
 				4D3A63D11FC96F4500864A69 /* UIView+Extension.h */,
 				4D3A63D21FC96F4500864A69 /* UIView+Extension.m */,
 				4D409AD220750F5B005B1A64 /* NSArray+beyond.h */,
@@ -169,6 +190,10 @@
 				4D6A58C01FEA925600E3D872 /* YLTextField.m */,
 				4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */,
 				4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */,
+				4D3B351C20A5E78B00517455 /* UITableView+ifiOSEleven.h */,
+				4D3B351D20A5E78B00517455 /* UITableView+ifiOSEleven.m */,
+				4D3B351320A5E77D00517455 /* TQStarRating */,
+				4D3B350C20A5E73700517455 /* YLArrowSegmentView */,
 				4DFEA05D2092C10E0000C83A /* YLScanView */,
 				4D3A63A51FC96F3500864A69 /* Main.storyboard */,
 				4D3A63A81FC96F3500864A69 /* Assets.xcassets */,
@@ -203,6 +228,36 @@
 				4D3A63C31FC96F3600864A69 /* Info.plist */,
 			);
 			path = ExtensionUITests;
+			sourceTree = "<group>";
+		};
+		4D3B350C20A5E73700517455 /* YLArrowSegmentView */ = {
+			isa = PBXGroup;
+			children = (
+				4D3B350D20A5E73700517455 /* YLArrowButtonView.h */,
+				4D3B350E20A5E73700517455 /* YLArrowSegmentView.m */,
+				4D3B350F20A5E73700517455 /* YLArrowSegmentView.h */,
+				4D3B351020A5E73700517455 /* YLArrowButtonView.m */,
+			);
+			path = YLArrowSegmentView;
+			sourceTree = "<group>";
+		};
+		4D3B351320A5E77D00517455 /* TQStarRating */ = {
+			isa = PBXGroup;
+			children = (
+				4D3B351420A5E77D00517455 /* TQStarRatingView.h */,
+				4D3B351520A5E77D00517455 /* Image */,
+				4D3B351820A5E77D00517455 /* TQStarRatingView.m */,
+			);
+			path = TQStarRating;
+			sourceTree = "<group>";
+		};
+		4D3B351520A5E77D00517455 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				4D3B351620A5E77D00517455 /* backgroundStar.png */,
+				4D3B351720A5E77D00517455 /* foregroundStar.png */,
+			);
+			path = Image;
 			sourceTree = "<group>";
 		};
 		4DFEA05D2092C10E0000C83A /* YLScanView */ = {
@@ -335,6 +390,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D3A63AC1FC96F3500864A69 /* LaunchScreen.storyboard in Resources */,
+				4D3B351A20A5E77D00517455 /* foregroundStar.png in Resources */,
 				4DFEA07A2092C10E0000C83A /* QRCodeLeftBottom@2x.png in Resources */,
 				4DFEA06E2092C10E0000C83A /* QRCodeRightTop@2x.png in Resources */,
 				4DFEA0702092C10E0000C83A /* QRCodeRightBottom@2x.png in Resources */,
@@ -345,6 +401,7 @@
 				4DFEA0732092C10E0000C83A /* QRCodeLeftTop@3x.png in Resources */,
 				4DFEA0772092C10E0000C83A /* QRCodeLeftBottom@3x.png in Resources */,
 				4DFEA0782092C10E0000C83A /* QRCodeScanningLine@3x.png in Resources */,
+				4D3B351920A5E77D00517455 /* backgroundStar.png in Resources */,
 				4DFEA0712092C10E0000C83A /* QRCodeRightBottom@3x.png in Resources */,
 				4DFEA0752092C10E0000C83A /* QRCodeRightTop@3x.png in Resources */,
 			);
@@ -378,12 +435,17 @@
 				4D6A58C31FEA925600E3D872 /* YLTextField.m in Sources */,
 				4D3A639E1FC96F3500864A69 /* main.m in Sources */,
 				4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */,
+				4D3B351220A5E73700517455 /* YLArrowButtonView.m in Sources */,
 				4D409AD620750F5C005B1A64 /* NSArray+beyond.m in Sources */,
 				4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */,
+				4DCF557921076C4300E9455A /* UIView+YLCore.m in Sources */,
 				4DFEA0762092C10E0000C83A /* YLScaningViewController.m in Sources */,
 				4DFEA0742092C10E0000C83A /* YLScaningView.m in Sources */,
+				4D3B351B20A5E77D00517455 /* TQStarRatingView.m in Sources */,
 				4D409AD720750F5C005B1A64 /* NSMutableArray+beyond.m in Sources */,
+				4D3B351E20A5E78B00517455 /* UITableView+ifiOSEleven.m in Sources */,
 				4D3A63D31FC96F4500864A69 /* UIImage+Extension.m in Sources */,
+				4D3B351120A5E73700517455 /* YLArrowSegmentView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
