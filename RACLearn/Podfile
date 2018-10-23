@@ -1,4 +1,0 @@
-platform :ios, '7.0'
-target 'RACLearn' do
-pod 'ReactiveCocoa'
-end
