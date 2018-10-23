@@ -28,6 +28,4 @@ typedef NS_ENUM(NSInteger,YLButtonImageType) {
 /// button类型
 @property (nonatomic, assign) YLButtonImageType buttonImageType;
 
-@property (nonatomic, assign)int btnIndex;
-
 @end

@@ -25,7 +25,7 @@
 		4D3B351E20A5E78B00517455 /* UITableView+ifiOSEleven.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D3B351D20A5E78B00517455 /* UITableView+ifiOSEleven.m */; };
 		4D409AD620750F5C005B1A64 /* NSArray+beyond.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D409AD320750F5B005B1A64 /* NSArray+beyond.m */; };
 		4D409AD720750F5C005B1A64 /* NSMutableArray+beyond.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D409AD420750F5C005B1A64 /* NSMutableArray+beyond.m */; };
-		4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58BE1FEA925500E3D872 /* YLButton.m */; };
+		4D6A58C21FEA925600E3D872 /* YLCustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58BE1FEA925500E3D872 /* YLCustomButton.m */; };
 		4D6A58C31FEA925600E3D872 /* YLTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D6A58C01FEA925600E3D872 /* YLTextField.m */; };
 		4DCF557921076C4300E9455A /* UIView+YLCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DCF557721076C4300E9455A /* UIView+YLCore.m */; };
 		4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DD1FFB2205C0E6500760CEF /* UILabel+Size.m */; };
@@ -96,10 +96,10 @@
 		4D409AD320750F5B005B1A64 /* NSArray+beyond.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+beyond.m"; sourceTree = "<group>"; };
 		4D409AD420750F5C005B1A64 /* NSMutableArray+beyond.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+beyond.m"; sourceTree = "<group>"; };
 		4D409AD520750F5C005B1A64 /* NSMutableArray+beyond.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+beyond.h"; sourceTree = "<group>"; };
-		4D6A58BE1FEA925500E3D872 /* YLButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLButton.m; sourceTree = "<group>"; };
+		4D6A58BE1FEA925500E3D872 /* YLCustomButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLCustomButton.m; sourceTree = "<group>"; };
 		4D6A58BF1FEA925600E3D872 /* YLTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLTextField.h; sourceTree = "<group>"; };
 		4D6A58C01FEA925600E3D872 /* YLTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLTextField.m; sourceTree = "<group>"; };
-		4D6A58C11FEA925600E3D872 /* YLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLButton.h; sourceTree = "<group>"; };
+		4D6A58C11FEA925600E3D872 /* YLCustomButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLCustomButton.h; sourceTree = "<group>"; };
 		4DCF557721076C4300E9455A /* UIView+YLCore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+YLCore.m"; sourceTree = "<group>"; };
 		4DCF557821076C4300E9455A /* UIView+YLCore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+YLCore.h"; sourceTree = "<group>"; };
 		4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+Size.h"; sourceTree = "<group>"; };
@@ -184,8 +184,8 @@
 				4D409AD320750F5B005B1A64 /* NSArray+beyond.m */,
 				4D409AD520750F5C005B1A64 /* NSMutableArray+beyond.h */,
 				4D409AD420750F5C005B1A64 /* NSMutableArray+beyond.m */,
-				4D6A58C11FEA925600E3D872 /* YLButton.h */,
-				4D6A58BE1FEA925500E3D872 /* YLButton.m */,
+				4D6A58C11FEA925600E3D872 /* YLCustomButton.h */,
+				4D6A58BE1FEA925500E3D872 /* YLCustomButton.m */,
 				4D6A58BF1FEA925600E3D872 /* YLTextField.h */,
 				4D6A58C01FEA925600E3D872 /* YLTextField.m */,
 				4DD1FFB1205C0E6500760CEF /* UILabel+Size.h */,
@@ -437,7 +437,7 @@
 				4DD1FFB3205C0E6500760CEF /* UILabel+Size.m in Sources */,
 				4D3B351220A5E73700517455 /* YLArrowButtonView.m in Sources */,
 				4D409AD620750F5C005B1A64 /* NSArray+beyond.m in Sources */,
-				4D6A58C21FEA925600E3D872 /* YLButton.m in Sources */,
+				4D6A58C21FEA925600E3D872 /* YLCustomButton.m in Sources */,
 				4DCF557921076C4300E9455A /* UIView+YLCore.m in Sources */,
 				4DFEA0762092C10E0000C83A /* YLScaningViewController.m in Sources */,
 				4DFEA0742092C10E0000C83A /* YLScaningView.m in Sources */,
